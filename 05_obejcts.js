@@ -170,3 +170,4 @@ console.log(ManualDate.getMonth());
 console.log(ManualDate.getDate());
 // similarly we can get hours minutes and seconds as well
 console.log(ManualDate.getDay()); // gets the day of the week
+
